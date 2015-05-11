@@ -5,3 +5,7 @@
 ## [Eray Arslan](https://github.com/erayarslan)
 
 > Aşkta telafi olmaz.
+
+## [Okan Vurdu](https://github.com/okanvurdu)
+
+> Hatasız kul olmaz.
