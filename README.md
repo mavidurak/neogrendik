@@ -14,6 +14,7 @@
 
 > Düşünüyorum da düşüncelerin en güzeli senin beni düşünüp düşünmediğini düşünürken düşünüyor olmanı düşünmek galiba.
 
+* [Workshop - Git Eğitimi, 2014](http://slides.com/iozguradem/versiyon-kontrol-sistemi-ve-git)
 * [Tech Talks #01 - Laravel Sunumu, 28.02.2015](http://slides.com/iozguradem/laravel)
 * [Tech Talks #02 - Temiz Kod İçin Basit Kurallar, 14.03.2015](http://slides.com/iozguradem/temiz-kod-icin-basit-kurallar)
 * [Tech Talks #03 - Ne Demek Artık Çalışmıyor - 21.03.2015](http://slides.com/iozguradem/ne-demek-artik-calismiyor)
