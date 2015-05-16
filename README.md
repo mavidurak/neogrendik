@@ -26,4 +26,9 @@
 
 ## [Furkan Başaran](https://github.com/frknbasaran)
 
-> Yakarsa dünyayı garipler yakar
+> Yakarsa dünyayı garipler yakar.
+
+* [Object Oriented Programming](http://slides.com/frknbasaran/oop-dedik-mudur)
+* [Gulp <3](http://slides.com/frknbasaran/deck)
+* [Twitter Api](http://slides.com/frknbasaran/deck-2)
+* [How to works Google?](http://slides.com/frknbasaran/deck-3)
