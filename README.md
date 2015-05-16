@@ -23,3 +23,7 @@
 * [Tech Talks #03 - Ne Demek Artık Çalışmıyor - 21.03.2015](http://slides.com/iozguradem/ne-demek-artik-calismiyor)
 * [Tech Talks #05 - Bitmeyen Proje - 11.04.2015](http://slides.com/iozguradem/bitmeyen-proje)
 * [Tech Talks #07 - Bitmeyen Kavga - 25.04.2015](http://slides.com/iozguradem/bitmeyen-kavga)
+
+## [Furkan Başaran](https://github.com/frknbasaran)
+
+> Yakarsa dünyayı garipler yakar
