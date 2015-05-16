@@ -4,8 +4,7 @@
 
 ## [Eray Arslan](https://github.com/erayarslan)
 
-> Aşkta telafi olmaz.
-> Beni mi bulur hep şımarık hep zor hatunlar?
+> Beni mi bulur, beni mi bulur hep şımarık hep zor hatunlar?
 
 * [Single-Page Web Application Architecture, 11.04.2015](http://www.slideshare.net/eryarslan/ben-kimim-46865656)
 
