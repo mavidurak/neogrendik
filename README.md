@@ -7,6 +7,7 @@
 > Beni mi bulur, beni mi bulur hep şımarık hep zor hatunlar?
 
 * [Single-Page Web Application Architecture, 11.04.2015](http://www.slideshare.net/eryarslan/ben-kimim-46865656)
+* [mavi.js](https://github.com/erayarslan/mavi)
 
 ## [Okan Vurdu](https://github.com/okanvurdu)
 
