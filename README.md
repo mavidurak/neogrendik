@@ -11,7 +11,11 @@
 
 ## [Okan Vurdu](https://github.com/okanvurdu)
 
-> Hatasız kul olmaz.
+> Hatasız cool olmaz.
+* Yeni başlayanlar için Ruby on Rails
+* [Facebook JS SDK İle Uygulama Geliştirme](http://slides.com/okanvurdu/facebook-js-sdk)
+* [Git ile Versiyon Kontrolü](http://slides.com/okanvurdu/git-ile-versiyon-kontrolu/)
+* [Rails::ActiveRecord](https://slides.com/okanvurdu/rails-active-record/)
 
 ## [Özgür Adem Işıklı](https://github.com/ozziest)
 
